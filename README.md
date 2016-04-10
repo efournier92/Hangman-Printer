@@ -8,4 +8,4 @@ Finally, the user is asked for the puzzle letters that have already been guessed
 
 ###Example Output
 
-[Hangman-Printer](http://gdurl.com/fnJm)
+![Hangman-Printer](http://gdurl.com/fnJm)
